@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  .menu-container {
+        color: #fff;
+        background-color: #ffb2b2;   /* Blue */
+        padding: 70px;
+        width: auto;
+        height: 200px;
+        display: flex;
+        justify-content: space-around;
+  }
+
+.menu:link {
+    text-decoration: none;
+    color: white;
+    height: 12px;
+    width: auto;
+    font-size: 27px;
+}
+
+.menu:link:visited {
+    background-color: purple;
+}
+
+.footer {
+    clear: both;
+    border: 1px #aaaaaa;
+    background-color: #ffcccc;
+    padding: 12px;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
