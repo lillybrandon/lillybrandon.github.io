@@ -27,6 +27,18 @@
     background-color: purple;
 }
 
+p {
+    text-align: center;
+    padding: 12px;
+    margin-top: auto;
+}
+
+li {
+    text-align: center;
+    padding: 12px;
+    margin-top: auto;
+}
+
 .footer {
     clear: both;
     border: 1px #aaaaaa;
